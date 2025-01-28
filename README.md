@@ -25,3 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=big2c3&show_icons=true&theme=dark&title_color=ffe74d&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="big2c3" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=big2c3&show_icons=true&theme=dark&title_color=ffe74d&text_color=ffffff&hide_border=true&locale=en" alt="big2c3" /></p>
+![gif-al-pc](https://ibb.co/SXYp43BL)
