@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cristian!</h1>
-<h3 align="center">Student and aspiring Full-Stack developer, driven by a passion for coding.</h3>
+<h3 align="center">Junior Full-Stack developer, driven by a passion for coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=big2c3&label=Profile%20views&color=ffe74d&style=plastic" alt="big2c3" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=big2c3" alt="big2c3" /></a> </p>
 
-- 🌱 I am currently studying a **Full-Stack course, in Develhope**
+- 🌱 I attended a **Full-Stack course, in Develhope**
 
 - 👨‍💻 My projects are here [https://github.com/Big2C3](https://github.com/Big2C3)
 
