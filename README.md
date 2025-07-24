@@ -5,15 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=big2c3&label=Profile%20views&color=ffe74d&style=plastic" alt="Profile views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Big2C3" target="_blank">
-    <img src="https://img.shields.io/badge/Projects-Showcase-orange?style=for-the-badge&logo=github" alt="Projects" />
-  </a>
-  <a href="mailto:cristianbovenzi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-</p>
-
 ---
 
 ## 🌱 About Me
