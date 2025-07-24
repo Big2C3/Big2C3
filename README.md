@@ -13,35 +13,6 @@ I attended a **Full-Stack course at Develhope** and I'm passionate about coding 
 
 ---
 
-## 👨‍💻 Projects
-
-You can check all my projects here:  
-[![GitHub Projects](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/Big2C3)
-
----
-
-## 📫 Get In Touch
-
-<p>
-  <a href="https://linkedin.com/in/cristian-bovenzi-a07126216" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://fb.com/cristian.bovenzi" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/bigc_23_kingofmonkeys" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/@cristianbovenzi" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://discord.gg/zbPc4sXq" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
-
----
-
 ## 💻 Languages & Tools
 
 <p>
